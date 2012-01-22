@@ -1,0 +1,215 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/235/trunk/ipodapp/Tap/Classes
+END
+ImageStopController.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/218/trunk/ipodapp/Tap/Classes/ImageStopController.h
+END
+PollResults.m
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/203/trunk/ipodapp/Tap/Classes/PollResults.m
+END
+ImageStopController.m
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/235/trunk/ipodapp/Tap/Classes/ImageStopController.m
+END
+TourMLUtils.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/90/trunk/ipodapp/Tap/Classes/TourMLUtils.h
+END
+StopGroupController.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/59/trunk/ipodapp/Tap/Classes/StopGroupController.h
+END
+TourMLUtils.m
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/90/trunk/ipodapp/Tap/Classes/TourMLUtils.m
+END
+StopGroupController.m
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/59/trunk/ipodapp/Tap/Classes/StopGroupController.m
+END
+PollStop.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/218/trunk/ipodapp/Tap/Classes/PollStop.h
+END
+BaseStop.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/218/trunk/ipodapp/Tap/Classes/BaseStop.h
+END
+TapAppDelegate.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/218/trunk/ipodapp/Tap/Classes/TapAppDelegate.h
+END
+PollStop.m
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/90/trunk/ipodapp/Tap/Classes/PollStop.m
+END
+TapAppDelegate.m
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/218/trunk/ipodapp/Tap/Classes/TapAppDelegate.m
+END
+BaseStop.m
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/218/trunk/ipodapp/Tap/Classes/BaseStop.m
+END
+Analytics.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/90/trunk/ipodapp/Tap/Classes/Analytics.h
+END
+WebStopController.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/218/trunk/ipodapp/Tap/Classes/WebStopController.h
+END
+ImageStop.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/218/trunk/ipodapp/Tap/Classes/ImageStop.h
+END
+Analytics.m
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/90/trunk/ipodapp/Tap/Classes/Analytics.m
+END
+WebStopController.m
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/90/trunk/ipodapp/Tap/Classes/WebStopController.m
+END
+ImageStop.m
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/90/trunk/ipodapp/Tap/Classes/ImageStop.m
+END
+StopGroup.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/218/trunk/ipodapp/Tap/Classes/StopGroup.h
+END
+StopGroup.m
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/90/trunk/ipodapp/Tap/Classes/StopGroup.m
+END
+TapDetectingImageView.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/59/trunk/ipodapp/Tap/Classes/TapDetectingImageView.h
+END
+VideoStop.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/218/trunk/ipodapp/Tap/Classes/VideoStop.h
+END
+StopFactory.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/219/trunk/ipodapp/Tap/Classes/StopFactory.h
+END
+TapDetectingImageView.m
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/59/trunk/ipodapp/Tap/Classes/TapDetectingImageView.m
+END
+PollStopController.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/90/trunk/ipodapp/Tap/Classes/PollStopController.h
+END
+KeypadController.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/59/trunk/ipodapp/Tap/Classes/KeypadController.h
+END
+VideoStop.m
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/202/trunk/ipodapp/Tap/Classes/VideoStop.m
+END
+StopFactory.m
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/219/trunk/ipodapp/Tap/Classes/StopFactory.m
+END
+WebStop.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/218/trunk/ipodapp/Tap/Classes/WebStop.h
+END
+Stop.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/218/trunk/ipodapp/Tap/Classes/Stop.h
+END
+PollStopController.m
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/90/trunk/ipodapp/Tap/Classes/PollStopController.m
+END
+KeypadController.m
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/59/trunk/ipodapp/Tap/Classes/KeypadController.m
+END
+WebStop.m
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/90/trunk/ipodapp/Tap/Classes/WebStop.m
+END
+PollResults.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/90/trunk/ipodapp/Tap/Classes/PollResults.h
+END
