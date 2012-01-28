@@ -12,8 +12,8 @@
 #import "StopFactory.h"
 #import "Analytics.h"
 
-#define TAP_TOUR_BUNDLE_NAME        @"<fill_me_in>" // ex. SacredSpain
-#define TAP_TOUR_BUNDLE_IDENTIFIER  @"<fill_me_in>" // ex. org.imamuseum.tap.SacredSpain
+#define TAP_TOUR_BUNDLE_NAME        @"MIT150" // ex. SacredSpain
+#define TAP_TOUR_BUNDLE_IDENTIFIER  @"org.mitmuseum.tap.MIT150" // ex. org.imamuseum.tap.SacredSpain
 #define TAP_HELP_STOP				@"411"
 #define TAP_HELP_VIDEO_CODE			@"41111"
 

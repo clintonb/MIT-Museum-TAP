@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Tour xmlns="http://www.imamuseum.org/TourML/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imamuseum.org/TourML/1.0">
+  <Title>MIT 150</Title>
+  <WebStop id="9" code="411">
+    <Title>Help</Title>
+    <Source>pages/stop-9.html</Source>
+  </WebStop>
+  <VideoStop id="12" code="41111">
+    <Title>Help Video</Title>
+    <Description>Help video...not really.</Description>
+    <Source>videos/museum.mp4</Source>
+  </VideoStop>
+  <AudioStop id="14" code="001">
+    <Title>CityCar Electric Vehicle</Title>
+    <Source>videos/CityCar.mp3</Source>
+  </AudioStop>
+  <AudioStop id="15" code="002">
+    <Title>Boston's Central Artery/Tunnel Plan</Title>
+    <Source>videos/Big Dig.mp3</Source>
+  </AudioStop>
+  <AudioStop id="16" code="003">
+    <Title>Sea Squirt</Title>
+    <Source>videos/Sea Squirt.mp3</Source>
+  </AudioStop>
+  <AudioStop id="17" code="004">
+    <Title>Artificial Skin</Title>
+    <Source>videos/Artificial Skin.mp3</Source>
+  </AudioStop>
+  <AudioStop id="18" code="005">
+    <Title>OpenCourseWare</Title>
+    <Source>videos/OCW.mp3</Source>
+  </AudioStop>
+  <VideoStop id="19" code="006">
+    <Title>Walter Lewin</Title>
+    <Source>videos/Lewin.mp4</Source>
+  </VideoStop>
+  <AudioStop id="20" code="007">
+    <Title>Lantern Slides</Title>
+    <Source>videos/Lantern Slides.mp3</Source>
+  </AudioStop>
+  <AudioStop id="21" code="008">
+    <Title>Theseus Maze</Title>
+    <Source>videos/Theseus Maze.mp3</Source>
+  </AudioStop>
+  <AudioStop id="22" code="009">
+    <Title>Plasma Sculptures</Title>
+    <Source>videos/Plasma Sculptures.mp3</Source>
+  </AudioStop>
+  <AudioStop id="23" code="010">
+    <Title>MIT $100K Competition</Title>
+    <Source>videos/100K.mp3</Source>
+  </AudioStop>
+  <VideoStop id="24" code="011">
+    <Title>Baker Piano Drop</Title>
+    <Source>videos/Piano Drop.mp4</Source>
+  </VideoStop>
+  <StopGroup id="25" code="000">
+    <Title>MIT 150</Title>
+    <StopRef id="15"/>
+    <StopRef id="16"/>
+    <StopRef id="17"/>
+    <StopRef id="18"/>
+    <StopRef id="19"/>
+    <StopRef id="20"/>
+    <StopRef id="21"/>
+    <StopRef id="22"/>
+    <StopRef id="23"/>
+    <StopRef id="24"/>
+  </StopGroup>
+</Tour>
