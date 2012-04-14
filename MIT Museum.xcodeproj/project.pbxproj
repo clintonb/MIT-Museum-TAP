@@ -70,6 +70,8 @@
 		8BF9F85D0FCECCCB00F2764D /* Entitlements.plist in Resources */ = {isa = PBXBuildFile; fileRef = 8BF9F85C0FCECCCB00F2764D /* Entitlements.plist */; };
 		AB6B3DE214D47C80008069B1 /* MainWindow-iPad.xib in Resources */ = {isa = PBXBuildFile; fileRef = AB6B3DDF14D47C80008069B1 /* MainWindow-iPad.xib */; };
 		AB6B3DE814D49682008069B1 /* MIT150.bundle in Resources */ = {isa = PBXBuildFile; fileRef = AB6B3DE714D49682008069B1 /* MIT150.bundle */; };
+		ABD57C06153A1B6B00BB3862 /* app-icon-57x57.png in Resources */ = {isa = PBXBuildFile; fileRef = ABD57C05153A1B6B00BB3862 /* app-icon-57x57.png */; };
+		ABD57C09153A1B6D00BB3862 /* app-icon-114x114.png in Resources */ = {isa = PBXBuildFile; fileRef = ABD57C08153A1B6D00BB3862 /* app-icon-114x114.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -161,6 +163,8 @@
 		AB6B3DE014D47C80008069B1 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = "Resources/iPad/en.lproj/MainWindow-iPad.xib"; sourceTree = "<group>"; };
 		AB6B3DE114D47C80008069B1 /* es */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = es; path = "Resources/iPad/es.lproj/MainWindow-iPad.xib"; sourceTree = "<group>"; };
 		AB6B3DE714D49682008069B1 /* MIT150.bundle */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.plug-in"; path = MIT150.bundle; sourceTree = "<group>"; };
+		ABD57C05153A1B6B00BB3862 /* app-icon-57x57.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "app-icon-57x57.png"; sourceTree = "<group>"; };
+		ABD57C08153A1B6D00BB3862 /* app-icon-114x114.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "app-icon-114x114.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -203,6 +207,8 @@
 		29B97314FDCFA39411CA2CEA /* Tap */ = {
 			isa = PBXGroup;
 			children = (
+				ABD57C08153A1B6D00BB3862 /* app-icon-114x114.png */,
+				ABD57C05153A1B6B00BB3862 /* app-icon-57x57.png */,
 				AB6B3DE714D49682008069B1 /* MIT150.bundle */,
 				080E96DDFE201D6D7F000001 /* Classes */,
 				29B97315FDCFA39411CA2CEA /* Other Sources */,
@@ -461,6 +467,8 @@
 				8B0C13A3116F622A00F3CE1B /* LICENSE in Resources */,
 				AB6B3DE214D47C80008069B1 /* MainWindow-iPad.xib in Resources */,
 				AB6B3DE814D49682008069B1 /* MIT150.bundle in Resources */,
+				ABD57C06153A1B6B00BB3862 /* app-icon-57x57.png in Resources */,
+				ABD57C09153A1B6D00BB3862 /* app-icon-114x114.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
